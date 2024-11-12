@@ -9,9 +9,10 @@
 1. What is the first step for installing Dart on a Windows machine?
 
 A) Install Homebrew
-B) Download the Dart SDK
+B) Download the Dart SDK               (B)
 C) Update your PATH
 D) Run Dart Doctor
+
 
 
 2. Which command verifies the Dart installation on macOS?
@@ -19,7 +20,7 @@ D) Run Dart Doctor
 A) dart --install
 B) dart --check
 C) dart --verify
-D) dart --version
+D) dart --version                   (D)
 
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
